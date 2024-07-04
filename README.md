@@ -1,5 +1,5 @@
 # Programming---first-steps.
-Here I share my first steps in R and Python (see attached file) programming, showcasing fundamental mathematical and string operations. This includes creating matrices, identifying and converting data types, performing arithmetic and logical checks, string manipulations, and working with dates.
+Here I share my first steps in R (see below and attached) and Python (see attached file) programming, showcasing fundamental mathematical and string operations. This includes creating matrices, identifying and converting data types, performing arithmetic and logical checks, string manipulations, and working with dates.
 
 ###  0. Instaling packages and libraries
 `library("stringr")`
